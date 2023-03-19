@@ -54,6 +54,10 @@
 ![image](https://user-images.githubusercontent.com/69501435/226166056-cde9c899-0d0e-42e5-a817-9fc716955d89.png)
 
 
+회원 탈퇴 기능은 마이페이지에서 만약 탈퇴를 누르면
+![image](https://user-images.githubusercontent.com/69501435/226172843-f524b4d8-e99a-4d96-8f68-b0bdd5180b16.png)
+기존에 로그인이 풀리고 로컬스토리지에서 저장되있던 유저 데이터가 사라지게된다.
+![image](https://user-images.githubusercontent.com/69501435/226172862-2532e6c0-c4a4-4629-b101-52ecd2b29987.png)
 
 
 
